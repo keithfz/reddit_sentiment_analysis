@@ -34,9 +34,7 @@ average_polarity = overall_polarity/number_of_sentiments
 # ===============================
 
 
-
 # === Print out data ============
 print('The average subjectivity value is ' + str(average_subjectivity))
 print('The average polarity value is ' + str(average_polarity))
-# ==============================
-=
+# ===============================
