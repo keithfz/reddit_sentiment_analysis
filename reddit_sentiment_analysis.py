@@ -2,7 +2,7 @@ import praw
 from textblob import TextBlob
 
 # === Authenticate ==============
-reddit = praw.Reddit(client_id ='2LSP5YTbWX5DnA', client_secret = 'j_ws3MaQU3jO_5U8ypzcqIV4438', user_agent = 'My Coding Bot', username = 'coding_bot', password = '1126garage')
+reddit = praw.Reddit(client_id ='', client_secret = '', user_agent = '', username = '', password = '')
 # ===============================
 
 # === Create Variables ==========
