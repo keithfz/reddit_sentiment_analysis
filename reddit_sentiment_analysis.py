@@ -8,7 +8,7 @@ reddit = praw.Reddit(client_id ='', client_secret = '', user_agent = '', usernam
 # === Create Variables ==========
 overall_subjectivity = 0.0
 overall_polarity = 0.0
-number_of_sentiments = 0
+number_of_sentiments = 0.0
 # ===============================
 
 
